@@ -65,7 +65,7 @@ export default function Hero() {
             >
               <span className="gradient-text">Vivavida:</span>
               <br />
-              Cuidando do seu{' '}
+              Salvando o seu{' '}
               <span className="relative">
                 coração
                 <motion.div
