@@ -67,7 +67,7 @@ export default function Footer() {
               </motion.div>
               
               <p className="text-gray-300 mb-6 leading-relaxed">
-                Dedicados a cuidar da sua saúde cardíaca com excelência, tecnologia avançada e 
+                Dedicados a cuidar da sua saúde cardíaca com dedicação, tecnologia avançada e 
                 o cuidado humano que você merece.
               </p>
               

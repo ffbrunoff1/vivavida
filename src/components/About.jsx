@@ -13,7 +13,7 @@ export default function About() {
   const values = [
     {
       icon: Shield,
-      title: 'Excelência Médica',
+      title: 'Dedicação Médica',
       description: 'Comprometimento com os mais altos padrões de qualidade em cardiologia, utilizando tecnologia de ponta e técnicas avançadas.'
     },
     {
@@ -142,7 +142,7 @@ export default function About() {
           >
             <div>
               <h3 className="text-3xl font-bold text-gray-800 mb-6">
-                Comprometimento com a Excelência
+                Comprometimento com a Dedicação
               </h3>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                 Na Vivavida, entendemos que cada coração tem sua própria história. Por isso, oferecemos 

@@ -25,7 +25,7 @@ export default function Hero() {
     },
     {
       icon: Award,
-      title: 'Excelência Médica',
+      title: 'Dedicação Médica',
       description: 'Profissionais altamente qualificados e experientes'
     },
     {
@@ -83,7 +83,7 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5 }}
             >
-              Com excelência e dedicação, oferecemos cuidados cardiológicos personalizados para garantir sua saúde e bem-estar.
+              Com dedicação, oferecemos cuidados cardiológicos personalizados para garantir sua saúde e bem-estar.
             </motion.p>
 
             <motion.div
